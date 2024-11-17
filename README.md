@@ -4,9 +4,7 @@
 
 From files on your PC             |  From any website
 :-------------------------:|:-------------------------:
-![extract from local file on pc]([https://github.com/vulncrax/assets/blob/main/linkf1.png)) | ![extract links from any website](https://github.com/vulncrax/assets/blob/main/linkf2.png)
-
-
+![extract from local file on pc](https://github.com/vulncrax/assets/blob/main/linkf1.png) | ![extract links from any website](https://github.com/vulncrax/assets/blob/main/linkf2.png)
 
 
 ## Installation
