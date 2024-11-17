@@ -8,7 +8,7 @@
 
 ## Installation
 
-To get started with NetSifter, follow these steps:.
+To get started with Linkf, follow these steps:.
 
 1. **Clone the repository:**.
     ```bash
@@ -23,6 +23,6 @@ To get started with NetSifter, follow these steps:.
 
 ## Usage
 
-To start using NetSifter, run the main script:
+To start using Linkf, run the main script:
 ```bash
 python linkf.py
