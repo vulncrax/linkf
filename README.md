@@ -2,8 +2,10 @@
  
 𝙇𝙞𝙣𝙠 𝙁𝙚𝙩𝙘𝙝𝙚𝙧
 
-![Screenshot (364)](https://github.com/vulncrax/assets/blob/main/linkf1.png) | ![Screenshot (364)](https://github.com/vulncrax/assets/blob/main/linkf2.png)
-<br>
+From files on your PC             |  From any website
+:-------------------------:|:-------------------------:
+![extract from local file on pc](https://user-images.githubusercontent.com/78584556/110972904-8b3dc380-8382-11eb-8ea4-77f08a9e3fe7.png) | ![extract links from any website](https://user-images.githubusercontent.com/78584556/110972925-9395fe80-8382-11eb-8427-de5fe551621b.png)
+
 
 
 
