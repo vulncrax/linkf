@@ -1,5 +1,7 @@
 
-![Screenshot (364)](https://github.com/vulncrax/assets/blob/main/linkf1.png))
+![Screenshot (364)](https://github.com/vulncrax/assets/blob/main/linkf1.png)
+<br>
+![Screenshot (364)](https://github.com/vulncrax/assets/blob/main/linkf2.png)
 # ｌｉｎｋｆ
  
 𝙇𝙞𝙣𝙠 𝙁𝙚𝙩𝙘𝙝𝙚𝙧
