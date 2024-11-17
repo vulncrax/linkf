@@ -1,10 +1,11 @@
-
-![Screenshot (364)](https://github.com/vulncrax/assets/blob/main/linkf1.png) ![Screenshot (364)](https://github.com/vulncrax/assets/blob/main/linkf2.png)
-<br>
-
 # ｌｉｎｋｆ
  
 𝙇𝙞𝙣𝙠 𝙁𝙚𝙩𝙘𝙝𝙚𝙧
+
+![Screenshot (364)](https://github.com/vulncrax/assets/blob/main/linkf1.png) | ![Screenshot (364)](https://github.com/vulncrax/assets/blob/main/linkf2.png)
+<br>
+
+
 
 ## Installation
 
